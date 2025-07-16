@@ -25,7 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benkier0&hide_progress=true)
 
 ---
 

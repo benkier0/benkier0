@@ -31,6 +31,14 @@
 > Integrated with auth including OAuth, expo-apple-authentication, and Sign in with AppleJS
 Designed and programmed a professional frontend UI
 
+<p align="center">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Screenshot%202025-07-16%20at%208.00.14%E2%80%AFpm.png" alt="3" width="30%">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Screenshot%202025-07-16%20at%208.01.11%E2%80%AFpm.png" alt="1" width="30%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Screenshot%202025-07-16%20at%208.00.47%E2%80%AFpm.png" alt="2" width="30%" style="margin-right: 10px;">
+</p>
+
+
+---
 
 **Black-Scholes Call Options Streamlit Data Modeller							Jul 2025**
 

@@ -32,4 +32,12 @@
 Designed and programmed a professional frontend UI
 
 
+**Black-Scholes Call Options Streamlit Data Modeller							Jul 2025**
 
+> *`scipy`, `pandas`, `matplotlib`, Yahoo Finance API (`yfinance`)*
+
+> Black-Scholes pricing for European calls and puts  
+
+> Full calculation of Greeks: Δ, Γ, ν, Θ, ρ  
+
+> Real options chain fetching & cleaning (Yahoo Finance)  

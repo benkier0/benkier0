@@ -1,25 +1,35 @@
-# 👋 Hey, I'm **Ben Duncanson**
+# print("👋 Hey, I'm **Ben Duncanson**")
 
 ---
 
-## 🔧 <span style="color:#1E90FF">SKILLS</span>
+## def ***skills***( ):
 
-LANGUAGE	FRAMEWORKS / STACKS	TOOLS & PLATFORMS
-Python 🐍	React Native (Expo) ⚛️	Git / GitHub 🛠️
-JavaScript / TypeScript 💻	Next.js, Supabase 🔥	VS Code, Postman, Figma 🎨
-Java ☕	RESTful APIs / PostgreSQL 🐘	IntelliJ IDEA, Expo CLI 🚀
-SQL / PHP 📊		MacOS / Linux / Windows 🖥️
+**Languages**: Python, JavaScript, TypeScript, Java, SQL, PHP 
 
-php-template
-Copy
-Edit
+**Frameworks**: React Native (Expo), Next.js, Supabase, RESTful APIs, PostgreSQL
 
-<div style="border-left: 3px solid white; padding-left: 12px; margin-top: 1em">
+**Tools**: Git & Github, Souretree, VS Code, Figma, Postman, Expo CLI, IntelliJ IDEA
 
-- <span style="color:#DC143C">Strong foundations in</span> Data Structures & Algorithms  
-- <span style="color:#DC143C">Passionate about</span> Machine Learning, clean UX, and backend design  
-- <span style="color:#1E90FF">Fullstack versatility</span> with a focus on performant, scalable builds
+**Technical/Programmatic**: Data Structures and Algorithms, Machine Learning
 
-</div>
+**Platforms**: Linux, MacOS, Windows
 
 ---
+
+## def ***projects***( ):
+
+**Tripr - Social Travel Planning App							Jan 2025 -**
+
+*Founder & Full Stack Dev • React Native, Typescript, Supabase, Next.js*
+
+> Designed and built a mobile-first travel platform for young, inexperienced travellers, enabling users to collaboratively plan trips with personalised recommendations
+
+> Engineered a itinerary UI with dynamic editing using intuitive gestures, integrating a synced “map view”
+
+> Developed group trip architecture utilising Supabase’s Realtime service for live syncing, shared edits, and user preference algorithms to produce group travel recommendations
+
+> Integrated with auth including OAuth, expo-apple-authentication, and Sign in with AppleJS
+Designed and programmed a professional frontend UI
+
+
+

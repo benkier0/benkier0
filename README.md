@@ -20,7 +20,7 @@
 
 **Tripr - Social Travel Planning App							Jan 2025 -**
 
-*Founder & Full Stack Dev • React Native, Typescript, Supabase, Next.js*
+*Founder & Full Stack Dev • `React Native`, `Typescript`, `Supabase`, `Next.js`*
 
 > Designed and built a mobile-first travel platform for young, inexperienced travellers, enabling users to collaboratively plan trips with personalised recommendations
 
@@ -34,7 +34,7 @@ Designed and programmed a professional frontend UI
 
 **Black-Scholes Call Options Streamlit Data Modeller							Jul 2025**
 
-> *`scipy`, `pandas`, `matplotlib`, Yahoo Finance API (`yfinance`)*
+*`scipy`, `pandas`, `matplotlib`, Yahoo Finance API (`yfinance`)*
 
 > Black-Scholes pricing for European calls and puts  
 

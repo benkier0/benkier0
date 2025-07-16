@@ -1,18 +1,29 @@
 # print("👋 Hey, I'm **Ben Duncanson**")
 
+> [!Important]
+> I'm a 1st Year UTS Software Engineering student, with a strong interest in pursuing the intergration of Machine Learning (ML) with the logistics, actuarial, and finance-technology industries.
+
 ---
 
 ## def ***skills***( ):
 
 **Languages**: Python, JavaScript, TypeScript, Java, SQL, PHP 
 
-**Frameworks**: React Native (Expo), Next.js, Supabase, RESTful APIs, PostgreSQL
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,postgresql,php)](https://skillicons.dev)
 
-**Tools**: Git & Github, Souretree, VS Code, Figma, Postman, Expo CLI, IntelliJ IDEA
+**Frameworks**: React Native (Expo), Next.js, Supabase, PostgreSQL
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,postgresql)](https://skillicons.dev)
+
+**Tools**: Git & Github, VS Code, Figma, Postman, IntelliJ IDEA, Souretree, Expo CLI
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
 
 **Technical/Programmatic**: Data Structures and Algorithms, Machine Learning
 
-**Platforms**: Linux, MacOS, Windows
+**Platforms**: Linux, Windows, MacOS
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ---
 
@@ -50,4 +61,9 @@ Designed and programmed a professional frontend UI
 
 > Real options chain fetching & cleaning (Yahoo Finance)
 
+
 ![Demo](https://github.com/benkier0/black-scholes-option/blob/main/assets/ss.png)
+
+
+---
+

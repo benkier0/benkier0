@@ -25,11 +25,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benkier0&hide_progress=true)
+
 ---
 
 ## def ***projects***( ):
 
-**Tripr - Social Travel Planning App							Jan 2025 -**
+**Tripr - Social Travel Planning App							Jan 2025 - Present**
 
 *Founder & Full Stack Dev • `React Native`, `Typescript`, `Supabase`, `Next.js`*
 

@@ -21,7 +21,7 @@
 
 **Technical/Programmatic**: Data Structures and Algorithms, Machine Learning
 
-**Platforms**: Linux, Windows, MacOS
+**Platforms**: Linux, Windows
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 

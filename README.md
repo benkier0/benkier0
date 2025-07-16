@@ -9,7 +9,7 @@
 
 **Languages**: Python, JavaScript, TypeScript, Java, SQL, PHP 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,postgresql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,sqlite,php)](https://skillicons.dev)
 
 **Frameworks**: React Native (Expo), Next.js, Supabase, PostgreSQL
 

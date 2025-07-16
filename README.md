@@ -40,4 +40,6 @@ Designed and programmed a professional frontend UI
 
 > Full calculation of Greeks: Δ, Γ, ν, Θ, ρ  
 
-> Real options chain fetching & cleaning (Yahoo Finance)  
+> Real options chain fetching & cleaning (Yahoo Finance)
+
+![Demo](https://github.com/benkier0/black-scholes-option/blob/main/assets/ss.png)

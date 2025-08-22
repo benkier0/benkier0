@@ -7,17 +7,17 @@
 
 ## def ***skills***( ):
 
-**Languages**: Python, JavaScript, TypeScript, Java, SQL, PHP 
+**Languages**: Python, C++, JavaScript, TypeScript, Java, SQL, PHP, Rust, Kubernetes
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,sqlite,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,java,sqlite,php,rust,kubernetes)](https://skillicons.dev)
 
 **Frameworks**: React Native (Expo), Next.js, Supabase, PostgreSQL
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,postgresql)](https://skillicons.dev)
 
-**Tools**: Git & Github, VS Code, Figma, Postman, IntelliJ IDEA, Souretree, Expo CLI
+**Tools**: Git & Github, Docker, VS Code, Figma, Postman, IntelliJ IDEA, Souretree, Expo CLI
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman)](https://skillicons.dev)
 
 **Technical/Programmatic**: Data Structures and Algorithms, Machine Learning
 

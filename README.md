@@ -1,7 +1,7 @@
 # print("👋 Hey, I'm **Ben Duncanson**")
 
 > [!Important]
-> I'm a 1st Year UTS Software Engineering student, with a strong interest in pursuing the intergration of Machine Learning (ML) with the logistics, actuarial, and finance-technology industries.
+> I'm a 1st Year UTS Software Engineering student, with a strong interest in pursuing the intergration of Machine Learning (ML) with the logistics, defense, and aerospace industries.
 
 ---
 

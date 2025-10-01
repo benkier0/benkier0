@@ -43,17 +43,28 @@ backend, improving app reliability and user experience
 <p align="flex-start">
   <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-01.png" alt="1" width="25%" style="margin-right: 10px;">
   <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-02.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-03.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-04.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-07.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-08.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-09.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-12.png" alt="2" width="25%" style="margin-right: 10px;">
-  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-15.png" alt="2" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-03.png" alt="3" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-04.png" alt="4" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-07.png" alt="5" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-08.png" alt="6" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-09.png" alt="7" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-12.png" alt="8" width="25%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-15.png" alt="9" width="25%" style="margin-right: 10px;">
 </p>
 
 
 ---
+
+*RN Logistics Dashboard - Frontend + Auth*
+
+<p align="flex-start">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/LogiNode-1.png" alt="1" width="80%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/LogiNode-4.png" alt="2" width="80%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/LogiNode-5.png" alt="3" width="80%" style="margin-right: 10px;">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/LogiNode-6.png" alt="4" width="80%" style="margin-right: 10px;">
+</p>
+
+
 
 **Black-Scholes Call Options Streamlit Data Modeller							Jul 2025**
 

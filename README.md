@@ -51,11 +51,15 @@ backend, improving app reliability and user experience
   <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-12.png" alt="8" width="25%" style="margin-right: 10px;">
   <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Tripr-15.png" alt="9" width="25%" style="margin-right: 10px;">
 </p>
-
-
 ---
 
-*RN Logistics Dashboard - Frontend + Auth*
+**Chip 8 Emulator in C**
+<p align="flex-start">
+  <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/Screenshot%202025-10-01%20200245.png" alt="1" width="85%" style="margin-right: 10px;">
+</p>
+---
+
+**RN Logistics Dashboard - Frontend + Auth**
 
 <p align="flex-start">
   <img src="https://github.com/benkier0/tripr.au/blob/main/public_assets/LogiNode-1.png" alt="1" width="80%" style="margin-right: 10px;">
